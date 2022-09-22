@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35c76da4.css",
+    "main.js": "/static/js/main.09e7bb73.js",
+    "static/js/787.45f85013.chunk.js": "/static/js/787.45f85013.chunk.js",
+    "static/media/lion.png": "/static/media/lion.9441b82e94a00ff3dcf9.png",
+    "static/media/dragon.png": "/static/media/dragon.e9341352a8496725ff75.png",
+    "static/media/giftlock.png": "/static/media/giftlock.d88905617ada24157d96.png",
+    "static/media/proxyBg.png": "/static/media/proxyBg.fdebcb32384ffcd36a7f.png",
+    "static/media/Privilege.png": "/static/media/Privilege.4c6ea418c8f828c32697.png",
+    "static/media/linkNew1.png": "/static/media/linkNew1.d98bed47c9e81ab8636d.png",
+    "static/media/rankingIcon.png": "/static/media/rankingIcon.c641f6809113e958f139.png",
+    "static/media/agentPlanEnter.png": "/static/media/agentPlanEnter.e24a184026991eec49f6.png",
+    "static/media/learnToRecharge.png": "/static/media/learnToRecharge.4a534ec52434208e854e.png",
+    "static/media/fastParityEnterV2.png": "/static/media/fastParityEnterV2.cc3fdefc9b6bd5ff5b3d.png",
+    "static/media/Treasure_s.png": "/static/media/Treasure_s.b28056f5218c8b068a2f.png",
+    "static/media/mineSweeperEnterV2.png": "/static/media/mineSweeperEnterV2.534a0a434148ed8bfb90.png",
+    "static/media/hiloIndexEnter.png": "/static/media/hiloIndexEnter.35b08da093bab53f4691.png",
+    "static/media/flash.png": "/static/media/flash.83dc697605cdd7f69c13.png",
+    "index.html": "/index.html",
+    "main.35c76da4.css.map": "/static/css/main.35c76da4.css.map",
+    "main.09e7bb73.js.map": "/static/js/main.09e7bb73.js.map",
+    "787.45f85013.chunk.js.map": "/static/js/787.45f85013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c76da4.css",
+    "static/js/main.09e7bb73.js"
+  ]
+}
